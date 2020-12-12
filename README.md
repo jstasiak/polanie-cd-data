@@ -1,2 +1,2 @@
-# polanie-cd-data
-Data ripped from a CD version of Polanie, a Polish strategy game
+# Polanie CD data
+Data ripped from the CD version of Polanie, a Polish strategy game
